@@ -275,7 +275,7 @@ module.exports = async(conn, msg, m, setting, store) => {
 			{ quickReplyButton: { displayText: `Script`, id: `${prefix}sc` } },
 		]
 		const button5 = [
-			{ callButton: { displayText: `Number Owner`, phoneNumber: `0813-1994-4917` } },
+			{ callButton: { displayText: `Number Owner`, phoneNumber: `0822-3019-6826` } },
 			{ urlButton: { displayText: `𝙂𝙧𝙪𝙥 𝙅𝙤𝙟𝙤`, url : `https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C` } },
 			{ quickReplyButton: { displayText: `Back To Menu 🔙`, id: `${prefix}menu` } },
 		]
@@ -405,7 +405,7 @@ var teks = `  │
 			    break
 case prefix+'sewa':
   case prefix+'daftarprem':
-  var teks = `*[ LIST HARGA JOJO PREM ]*
+  var teks = `*[ LIST HARGA RAFFA PREM ]*
 
 _Yakin kamu mau daftar ke premium?_
 
@@ -434,10 +434,10 @@ case prefix+'groupjojo':
 case prefix+'infobot':
   case prefix+'inforobot':
     case prefix+'info':
-      var caption = `*[ INFO ROBOT JOJO ]*
+      var caption = `*[ INFO ROBOT RAFFA ]*
 
-*Nama Bot :* Jojo
-*Name Owner :* Arasya
+*Nama Bot :* RAFFA
+*Name Owner :* keiraffa
 *Nomor Bot :* wa.me/${nobot}
 *Nomor Owner :* wa.me/${ownerNumber}
 *Engine :* NodeJs
